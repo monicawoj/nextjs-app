@@ -14,7 +14,7 @@ const Home = ({ stars }) => (
       </Link>
     ))}
     <div>Things left to learn: {stars}</div>
-    <img src="/static/tatry_netguru.jpg" alt="tatry_netguru" />
+    <img src="/static/tatry_netguru.JPG" alt="tatry_netguru" />
   </>
 );
 
